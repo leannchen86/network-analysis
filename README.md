@@ -1,1 +1,3 @@
-# network-analysis
+# Named Entity Recognition and Relationship Visualization: "The Five Dysfunctions of a Team"
+
+Based on Patrick Lencioni's insightful book, "The Five Dysfunctions of a Team" (a must-read for HR professionals), this Jupyter notebook delves into an analytical exploration of the text. Leveraging the robust Named Entity Recognition (NER) algorithm from the spaCy library in Python, I process the entire text data to extract entities and discern potential relationships. Then, I utilize the networkx library to visualize these relationships, offering a unique perspective into the intricate dynamics presented in the book.
